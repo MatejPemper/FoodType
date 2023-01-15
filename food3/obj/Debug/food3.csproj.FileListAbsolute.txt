@@ -1,0 +1,8 @@
+C:\Users\matej\source\repos\food3\food3\bin\Debug\food3.exe.config
+C:\Users\matej\source\repos\food3\food3\bin\Debug\food3.exe
+C:\Users\matej\source\repos\food3\food3\bin\Debug\food3.pdb
+C:\Users\matej\source\repos\food3\food3\obj\Debug\food3.csproj.AssemblyReference.cache
+C:\Users\matej\source\repos\food3\food3\obj\Debug\food3.csproj.SuggestedBindingRedirects.cache
+C:\Users\matej\source\repos\food3\food3\obj\Debug\food3.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\food3\food3\obj\Debug\food3.exe
+C:\Users\matej\source\repos\food3\food3\obj\Debug\food3.pdb
